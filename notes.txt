@@ -1,0 +1,17 @@
+#use virtual router manager to create a wifi hotspot in one laptop
+
+#now connect arduino to that wifi connect
+#connect one laptop to that wifi as well, and start a server
+#now run code on yun to connect to that server
+
+
+
+-----------Wifi Hotspot running PC---------
+|										  |
+|    ---------							  |
+|    |  PC1  |							  |
+|    |running|<----------Arduino1		  |
+|    |server |----------->Arduino2		  |
+|    ---------						      |
+|										  |
+-------------------------------------------
